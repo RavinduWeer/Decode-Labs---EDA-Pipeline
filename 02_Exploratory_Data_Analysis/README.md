@@ -16,7 +16,7 @@ Utilized Python (`pandas`, `seaborn`) to conduct a rigorous univariate and bivar
 ---
 
 ### 📈 Visual Evidence: The EDA Dashboard
-![Diagnostic Framework: EDA](EDA_Dashboard_Project2.jpg)
+![Diagnostic Framework: EDA](EDA_Dashboard_Project2.png)
 
 ---
 
