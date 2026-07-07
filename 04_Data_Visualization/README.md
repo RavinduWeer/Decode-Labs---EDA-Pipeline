@@ -26,7 +26,7 @@ These visualizations were programmatically designed in Python adhering to strict
 ---
 
 ### 📈 Visual 2: Time Series & Seasonality Forecasting
-![Seasonality Trend](Boardroom_Slide_2_Seasonality.jpg)
+![Seasonality Trend](Boardroom_Slide_2_Seasonality.png)
 
 #### The Narrative (SCR Framework)
 * **Situation:** We analyzed the macroeconomic purchasing trends over a 30-month timeline using a 3-month moving average to filter out monthly volatility.
