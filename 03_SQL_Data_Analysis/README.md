@@ -41,7 +41,7 @@ To execute the queries within a Python pipeline, an in-memory `sqlite3` database
 | C57276       |                1 |          $3,456.40 |
 | C67260       |                1 |          $3,390.80 |
 
-* **Insight:** A highly concentrated segment of VIP customers exists. Notably, `C38840` achieved the highest lifetime value across multiple purchases, whereas others crossed the threshold in a single transaction.
+* **Insight:** A highly concentrated segment of VIP customers exists. Notably, `C38840` achieved the highest lifetime value across multiple purchases whereas others crossed the threshold in a single transaction.
 
 ### Query 3: Status Filtering & Performance
 **Objective:** Extract successful revenue streams by filtering for specific categorical string matching (`Shipped` OR `Delivered`) and grouping by `PaymentMethod`.
