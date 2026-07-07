@@ -19,13 +19,13 @@ The projects demonstrate a full-stack approach to data science, moving from raw,
 * **Tech Stack:** Python (`pandas`, `scikit-learn`, `scipy`)
 
 ### 📊 [Project 02: Exploratory Data Analysis & Diagnostic Frameworks](./02_Exploratory_Data_Analysis/)
-**Goal:** Construct a diagnostic framework to understand the center of gravity, variability, and linear relationships within the dataset.
+**Goal:** Construct a diagnostic framework to understand the center of gravity, variability and linear relationships within the dataset.
 * **Skills Applied:** Five-Number Summaries, Skewness Diagnosis (Mean vs. Median sensitivity), Pearson Correlation ($r$) Analysis.
 * **Tech Stack:** Python (`pandas`, `numpy`, `seaborn`)
 
 ### 🗄️ [Project 03: SQL Data Analysis & Relational Logic](./03_SQL_Data_Analysis/)
-**Goal:** Translate procedural business questions into declarative queries to filter, group, and aggregate raw data efficiently.
-* **Skills Applied:** SQL Execution Order optimization, Row-Level Filtering (`WHERE`), Aggregation (`SUM/COUNT/AVG`), and Bucket Filtering (`HAVING`).
+**Goal:** Translate procedural business questions into declarative queries to filter, group and aggregate raw data efficiently.
+* **Skills Applied:** SQL Execution Order optimization, Row-Level Filtering (`WHERE`), Aggregation (`SUM/COUNT/AVG`) and Bucket Filtering (`HAVING`).
 * **Tech Stack:** Python (`sqlite3`)
 
 ### 🎨 [Project 04: Strategic Data Visualization & Storytelling](./04_Data_Visualization/)
